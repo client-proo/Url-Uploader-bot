@@ -91,5 +91,5 @@ async def start(bot, update):
                     [InlineKeyboardButton("⭑💢 𝚂 𝙾 𝙲 𝚒 𝙰 𝙻 💢⭑", url="https://instagram.com/LazyDeveloper__")],
                 ]
             ),
-            reply_to_message_id=update.message_id
+            reply_to_message_id=message_id
         )
